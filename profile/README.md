@@ -1,4 +1,4 @@
-![KYAU Labs Github Header](README.png)
+![KYAU Labs Github Header](profile/README.png)
 
 **home**    `/hōm/`
 
