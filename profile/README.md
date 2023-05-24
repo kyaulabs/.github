@@ -10,6 +10,6 @@
 
 ### 📮 About
 
-KYAU Labs is used for all projects related-to or developed in my homelab 🧪.
+The KYAU Labs organization is used for all projects that are related-to or developed in my homelab 🧪.
 
-From learning how to code, to learning Linux & the BSDs, to learning level 3 networking... none of this would have been possible without my homelab 💖.
+Whether it was learning how to code or automating an Arch Linux server install... most of what I know today would not have been possible without my homelab 💖.
