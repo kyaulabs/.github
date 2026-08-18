@@ -16,11 +16,11 @@ Whether it was learning how to code or automating an Arch Linux server install..
 
 ### ✨ Featured Projects
 
-- **[win11tweak](https://github.com/kyaulabs/win11tweak)** — Template-based automated scripts to debloat, disable telemetry, and reconfigure Windows 11 for power-users.
-- **[aurora](https://github.com/kyaulabs/aurora)** — A high-performance PHP framework for building dynamic websites and APIs, featuring a modular architecture and built-in caching.
 - **[aarch](https://github.com/kyaulabs/aarch)** — A template-based automated installer for Arch Linux.
-- **[template](https://github.com/kyaulabs/template)** — A comprehensive PHP repository template shipping with the Aurora PHP Framework, an OpenCode coding harness for AI-assisted development, TDD enforcement with Pest, conventional commits with commitlint, and a SCSS/JS build pipeline.
-- **[opencode-panda-syntax](https://github.com/kyaulabs/opencode-panda-syntax)** — A superminimal dark syntax theme for [OpenCode](https://opencode.ai), based on Panda Syntax.
+- **[aurora](https://github.com/kyaulabs/aurora)** — A high-performance PHP framework for building dynamic websites and APIs, featuring a modular architecture and built-in caching.
+- **[prism](https://github.com/kyaulabs/prism)** — A Pi coding harness for AI-assisted development, TDD enforcement, conventional commits with commitlint, build pipeline, and Semgrep+Gitleaks security scanning.
+- **[win11tweak](https://github.com/kyaulabs/win11tweak)** — Template-based automated scripts to debloat, disable telemetry, and reconfigure Windows 11 for power-users.
+- **[template](https://github.com/kyaulabs/template)** — Template repository for all KYAU Labs projects — starting point for new repos, featuring conventional commits with commitlint, auto-generated changelogs via git-cliff, signed-commit workflows, issue labeling conventions (TPS), Git hooks, and repository security/configuration guidelines.
 
 ### 🔗 Links
 
